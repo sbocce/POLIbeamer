@@ -24,8 +24,8 @@ Ah, in ogni caso, date un'occhiata al mio sitarello:
 <br>
 
 ++++++++++++++++++  ENG  ++++++++++++++++++++<br>
-POLIbeamer is a latex template similar to the official POLIMI
-(Politecnico di Milano) 2016 template.
+POLIbeamer is a latex template almost looking like the official 
+POLIMI (Politecnico di Milano) 2016 template.
 <br>
 My template sucks: "perdete ogni speranza voi ch'entrate" 
 (but it's better than nothing!)
