@@ -8,7 +8,7 @@ ch'entrate." (ma pur sempre meglio di niente!)
 <br><br>
 Scaricare il template con:
 <br>
-git clone INDIRIZZOOOOOOO POLIbeamer
+git clone https://github.com/sbocce/POLIbeamer POLIbeamer
 <br><br>
 poi lasciare i file di stile .sty nella cartella corrente e 
 modificare il main.tex a piacimento, facendo attenzione a 
@@ -29,7 +29,7 @@ My template sucks: "perdete ogni speranza voi ch'entrate"
 <br><br>
 Download the template with:
 <br>
-git clone INDIRIZZOOOOOOOOOO POLIbeamer
+git clone https://github.com/sbocce/POLIbeamer POLIbeamer
 <br><br>
 then leave the style .sty files in the main folder and modify
 the main.tex as you wish, just be sure to keep the pagenumbering{gobble}
