@@ -17,7 +17,7 @@ nel frame contenente il titolo e nel frame successivo.
 Modificarli a proprio rischio e pericolo.
 <br>
 Ah, in ogni caso, date un'occhiata al mio sitarello:
-[boccelliengineering](boccelliengineering.altervista.org)
+[boccelliengineering](http://boccelliengineering.altervista.org)
 <br>
 
 ++++++++++++++++++  ENG  ++++++++++++++++++++<br>
@@ -38,4 +38,4 @@ in the very next one.
 Modify them at your own risk.
 <br>
 Oh, by the way, take a look at my tiny and cute website:
-[boccelliengineering](boccelliengineering.altervista.org)
+[boccelliengineering](http://boccelliengineering.altervista.org)
