@@ -1,5 +1,5 @@
 # POLIbeamer
-+++++++++++++++++   ITA   +++++++++++++++++++++
++++++++++++++++++   ITA   +++++++++++++++++++++ <br>
 Template beamer per il POLIMI, versione 2016.
 Nel 2016 il vecchio template (carino) e' stato cambiato in un nuovo 
 (bruttino) template.
@@ -11,7 +11,7 @@ pagenumbering{gobble} e compagnia (a vostro rischio e pericolo)!
 Ah, in ogni caso, dai un'occhio al mio piccolo caruccio sito:
 [boccelliengineering](http://boccelliengineering.altervista.org)
 
-++++++++++++++++++   ENG   ++++++++++++++++++++
+++++++++++++++++++   ENG   ++++++++++++++++++++<br>
 POLIMI (Politecnico di Milano) beamer template, 2016 version.
 In 2016 the old (nice) template was changed into a new (ugly) one.
 My template sucks, "perdete ogni speranza voi ch'entrate".
