@@ -1,4 +1,7 @@
 # POLIbeamer
+
+![](https://github.com/sbocce/POLIbeamer/sample.png)
+<br><br>
 ++++++++++++++++++  ITA  ++++++++++++++++++++<br>
 POLIbeamer è un template latex che su per giù assomiglia al
 template ufficiale POLIMI 2016.
