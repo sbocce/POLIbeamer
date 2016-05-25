@@ -1,5 +1,0 @@
-\beamer@endinputifotherversion {3.10pt}
-\beamer@sectionintoc {1}{Pollo arrosto}{2}{0}{1}
-\beamer@sectionintoc {2}{Iniziamo}{3}{0}{2}
-\beamer@subsectionintoc {2}{1}{Still again yet not more or plus}{4}{0}{2}
-\beamer@subsectionintoc {2}{2}{Sottosezione dueee}{5}{0}{2}
